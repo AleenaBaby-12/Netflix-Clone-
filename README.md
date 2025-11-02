@@ -1,3 +1,31 @@
+
+# 🎬 Netflix Clone (React)
+
+A simple Netflix-style web app built using React. This project focuses on creating a clean UI with movie thumbnails, banner section, and category rows — inspired by the Netflix homepage.
+
+##  Features
+
+- Responsive layout with React components
+- Movie rows by category (e.g., Trending, Top Rated)
+- Banner section with featured content
+- Hover effects on thumbnails
+- Fetched movie data using TMDB api
+
+##  Tech Stack
+
+- React
+- JavaScript
+- CSS
+- Git & GitHub
+
+##  Installation
+
+```bash
+git clone https://github.com/AleenaBaby-12/netflix-clone.git
+cd netflix-clone
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
