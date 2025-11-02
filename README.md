@@ -25,7 +25,7 @@ git clone https://github.com/AleenaBaby-12/netflix-clone.git
 cd netflix-clone
 npm install
 npm start
-
+#Development Setup
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
